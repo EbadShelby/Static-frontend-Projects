@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "tailwindcss-motion";
+
+@layer base {
+  body {
+    font-family: "Inter";
+  }
+}
+a {
+  color: #4e80ee;
+}
